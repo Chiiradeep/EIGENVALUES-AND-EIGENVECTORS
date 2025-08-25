@@ -30,6 +30,8 @@ print("Eigen values are", eigenvalues,"and Eigen Vectors are",eigenvectors)
 ~~~
 
 ## Output:
+<img width="1204" height="759" alt="image" src="https://github.com/user-attachments/assets/b66fbc87-f2c9-440f-865d-2d677991b779" />
+
 <img width="1399" height="285" alt="Screenshot 2025-08-18 112726" src="https://github.com/user-attachments/assets/5ac25735-8a30-4a48-81e0-d20135882c66" />
 
 ## Result:
